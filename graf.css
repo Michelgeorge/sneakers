@@ -1,0 +1,81 @@
+body {
+	background-image: url(https://www.walldevil.com/wallpapers/a24/wallpaper-shoes-black-wallpapers.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+
+.nike{
+	font-family: Arial;
+	color: red;
+	font-size:50px;
+}
+
+
+#counter{
+	color: red;
+	font-size:50px;
+	font-family:arial; 
+	font-weight: normal;
+}
+
+
+#counter2{
+	color: red;
+	font-size:50px;
+	font-family: arial;
+	font-weight: normal;
+
+}
+
+
+
+#counter3{
+	color: red;
+	font-size: 50px;
+	font-family: arial;
+	font-weight: normal;
+
+}
+
+.ct-label{
+color:red;
+font-size: 16px;
+	font-family: arial;
+	font-weight: normal;
+}
+.ct-grid{
+	stroke: red;
+
+}
+
+.ct-series-a .ct-bar{
+stroke: green;
+}
+
+.ct-series-b .ct-bar{
+stroke: blue;
+}
+
+.ct-series-c .ct-bar{
+stroke: red;
+}
+
+.statsgrid{
+
+}
+
+.ct-chart {
+	height: 700px;
+}
+
+.ftsegment{
+color: red;
+text-align: center;
+font-style: bold;
+font-size: 25px;
+
+}
+
+
+
